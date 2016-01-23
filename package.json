@@ -1,0 +1,19 @@
+{
+  "name": "twitter-pic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reimertz/twitpic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reimertz/twitpic/issues"
+  },
+  "homepage": "https://github.com/reimertz/twitpic#readme"
+}
